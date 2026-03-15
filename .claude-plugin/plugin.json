@@ -1,0 +1,8 @@
+{
+  "name": "claude-code-bash-history",
+  "description": "Saves all Bash commands Claude runs to a .bash_history file in the project directory",
+  "version": "1.0.0",
+  "author": {
+    "name": "d3dave"
+  }
+}
