@@ -3,6 +3,7 @@
   "description": "Saves all Bash commands Claude runs to a .bash_history file in the project directory",
   "version": "1.0.0",
   "author": {
-    "name": "d3dave"
+    "name": "David Dorfman",
+    "url": "https://github.com/d3dave"
   }
 }
