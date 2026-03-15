@@ -18,12 +18,15 @@ A Claude Code plugin that saves all Bash tool commands to a `.bash_history` file
 
 ## Installation
 
-```bash
-claude plugin install /path/to/claude-history --scope user
+Via the marketplace:
+
+```
+/plugin marketplace add d3dave/claude-code-plugins
+/plugin install bash-history@d3dave
 ```
 
-Or for testing locally:
+For testing locally:
 
 ```bash
-claude --plugin-dir /path/to/claude-history
+claude --plugin-dir /path/to/claude-code-bash-history
 ```

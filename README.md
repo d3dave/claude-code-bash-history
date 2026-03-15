@@ -8,8 +8,16 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin that save
 
 ## Installation
 
-```bash
-claude plugin install d3dave/claude-code-bash-history --scope user
+First, add the marketplace:
+
+```
+/plugin marketplace add d3dave/claude-code-plugins
+```
+
+Then install the plugin:
+
+```
+/plugin install bash-history@d3dave
 ```
 
 ## How It Works
